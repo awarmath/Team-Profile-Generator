@@ -30,7 +30,7 @@ You can locate your generated HTML file in the output folder. Open the file in y
 
 See below for full walkthru video
 
-![alt text](assets/TeamProfileGenerator-Walkthru.mp4)
+![Walkthru Video](assets/TeamProfileGenerator-Walkthru.mp4)
 
 ## Questions?
   
