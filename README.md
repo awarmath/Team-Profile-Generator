@@ -28,6 +28,10 @@ You can locate your generated HTML file in the output folder. Open the file in y
 
 ![alt text](assets/HTML.png)
 
+See below for full walkthru video
+
+![alt text](assets/TeamProfileGenerator-Walkthru.mp4)
+
 ## Questions?
   
 ![Developer Profile Picture](https://avatars3.githubusercontent.com/u/70709676?v=4) 
